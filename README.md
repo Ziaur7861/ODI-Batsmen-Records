@@ -1,5 +1,3 @@
-# ODI-Batsmen-Records
-
 # ODI Batsmen Records - Excel Data Analysis Project
 
 This project showcases ODI cricket batting records using Microsoft Excel.
